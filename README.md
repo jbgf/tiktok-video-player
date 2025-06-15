@@ -109,7 +109,7 @@ The component uses standard CSS class names, you can customize styles through CS
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/tiktok-video-player.git
+git clone https://github.com/jbgf/tiktok-video-player.git
 cd tiktok-video-player
 
 # Install dependencies
@@ -173,4 +173,4 @@ Issues and Pull Requests are welcome!
 
 If you find this project useful, please give it a ⭐️!
 
-For questions or suggestions, please create an [Issue](https://github.com/yourusername/tiktok-video-player/issues). 
+For questions or suggestions, please create an [Issue](https://github.com/jbgf/tiktok-video-player/issues). 

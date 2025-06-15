@@ -31,11 +31,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/tiktok-video-player.git"
+    "url": "git+https://github.com/jbgf/tiktok-video-player.git"
   },
-  "homepage": "https://github.com/yourusername/tiktok-video-player#readme",
+  "homepage": "https://github.com/jbgf/tiktok-video-player#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/tiktok-video-player/issues"
+    "url": "https://github.com/jbgf/tiktok-video-player/issues"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
