@@ -4,7 +4,7 @@ A clean, responsive React component for playing TikTok videos. Supports adaptive
 
 ## 🚀 Live Demo
 
-See this package in action at **[Anonymous Viewer](https://www.anonymous-viewer.com/)** - a tool for viewing TikTok profiles and videos anonymously using our video player component.
+See this package in action at **[Tiktok Viewer](https://www.anonymous-viewer.com/)** - a tool for viewing TikTok profiles and videos anonymously using our video player component.
 
 ## Features
 
@@ -13,7 +13,6 @@ See this package in action at **[Anonymous Viewer](https://www.anonymous-viewer.
 - 📦 **Lightweight**: No external dependencies, pure CSS implementation
 - 🔧 **TypeScript Support**: Complete type definitions
 - ⚡ **Easy to Use**: Simple API, just pass the TikTok video ID
-- 🌐 **Production Ready**: Used by [Anonymous Viewer](https://www.anonymous-viewer.com/) for TikTok content viewing
 
 ## Installation
 
@@ -164,10 +163,6 @@ Issues and Pull Requests are welcome!
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## Who's Using This
-
-- **[Anonymous Viewer](https://www.anonymous-viewer.com/)** - Anonymous TikTok profile and video viewer tool that provides secure, private access to TikTok content without requiring login
 
 ## Support
 
