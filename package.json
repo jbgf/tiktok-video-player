@@ -1,6 +1,6 @@
 {
   "name": "tiktok-video-player",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A React component for playing TikTok videos with responsive design",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",

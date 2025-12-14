@@ -16,15 +16,12 @@ export const VideoPlayer: React.FC<VideoPlayerProps> = ({ id }) => {
 
   return (
     <div className="video-player-container">
-      <video
-        controls
-        className="video-player"
-        autoPlay
-        playsInline
-      >
-        <source src={url} type="video/mp4" />
-        Your browser does not support the video tag.
-      </video>
+      <iframe
+         src={url}
+         className="video-player"
+         allowFullScreen
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      />
     </div>
   );
 };
