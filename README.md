@@ -141,10 +141,6 @@ tiktok-video-player/
 └── README.md
 ```
 
-## License
-
-MIT © [Your Name]
-
 ## Changelog
 
 ### v1.0.0
